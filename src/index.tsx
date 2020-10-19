@@ -5,9 +5,10 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <div>
+    <div className="nav"></div>
+    <App name={12}/>
+  </div>,
   document.getElementById('root')
 );
 
