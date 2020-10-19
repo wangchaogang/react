@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### 代码主要在App.tsx
+    tsx是ts语法在react环境中的一个文件扩展
 ### `npm start`
 
 Runs the app in the development mode.<br />
